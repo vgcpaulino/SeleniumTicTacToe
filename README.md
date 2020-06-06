@@ -12,4 +12,4 @@ XUnit
 Selenium
 WebDriverManager
 
-![](TicTacToe.gif)
+![](TicTacToeGif.gif)
