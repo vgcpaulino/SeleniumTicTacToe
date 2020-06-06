@@ -7,9 +7,9 @@ The following link contains the game, all the elements in the game are common ht
 https://playtictactoe.org/
 
 ## What was used:
-.Net Core 3.1
-XUnit
-Selenium
-WebDriverManager
+- .Net Core 3.1  
+- XUnit  
+- Selenium  
+- WebDriverManager  
 
 ![](TicTacToeGif.gif)
